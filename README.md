@@ -1,4 +1,4 @@
-# Merge Conflict
+# :zap: Merge Conflict :zap: :metal:
 
 Well, here we go.
 
